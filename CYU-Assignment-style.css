@@ -1,0 +1,51 @@
+html {
+  background-color: rgba(249, 249, 147, 0.789);
+}
+
+h1,
+h3,
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background-color: rgb(252, 249, 103);
+  width: 500px;
+  margin: 50px auto;
+  padding: 10px 50px;
+  border-radius: 100px;
+}
+img {
+  width: 300px;
+}
+ol,
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+}
+h2,
+h3,
+h1 {
+  text-decoration: underline;
+}
+p {
+  font-size: 20px;
+}
+img:hover {
+  width: 500px;
+}
+li:hover {
+  font-size: 20px;
+  color: rgb(146, 2, 2);
+}
+
+/* (selector (Ex. hi, body, h2)) {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;  
+} */
